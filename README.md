@@ -5,7 +5,7 @@ A javascript router for realtime applications.
 
 **Include the file:**
 
-``` <script type="text/javascript" src="js/apacerouter.js"></script> ```
+``` <script type="text/javascript" src="js/apacerouter.min.js"></script> ```
 
 **Javascript**
 ```
